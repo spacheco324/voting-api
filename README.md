@@ -53,7 +53,7 @@ La aplicación está organizada por responsabilidades, separando modelos de base
 
 1. Clonar el repositorio
 
-`git clone <URL_DEL_REPOSITORIO>`
+`git clone https://github.com/spacheco324/voting-api.git`
 `cd VotingAPI`
 
 2. Crear un entorno virtual
