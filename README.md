@@ -6,7 +6,7 @@ API RESTful desarrollada en Python para gestionar un sistema de votaciones. La a
 
 ## Tecnologías utilizadas
 
-- Python 3
+- Python 3.14
 - FastAPI — desarrollo de la API RESTful
 - SQLAlchemy — ORM y manejo de la base de datos
 - Pydantic — validación y serialización de datos
